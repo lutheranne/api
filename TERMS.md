@@ -27,14 +27,14 @@ Data and Charts on the AFN site is owned by ArtFacts.Net Ltd. All rights not exp
 AFN API License Conditions and Restrictions
 ---------------
 
-## You shall at all times:
+### You shall at all times:
 
 *	Comply with the API Terms of Use and the other terms and conditions of your AFN Agreement, www.artfacts.net/terms.
 *	Comply with any terms, conditions and copyright restrictions imposed on usage of data and rankings owned by AFN. Although the AFN API can be used to gain access to data and charts, neither AFN’s provision of the AFN API to you nor your use of the AFN API override the owner ’s terms, conditions and copyright restrictions and/or other terms and conditions that must be agreed upon between you and AFN. You are solely responsible for making use of AFN data, charts and other information in compliance with AFN’s requirements and/or restrictions.
 *	Remove from your application within 7 days any AFN data, charts or other information that AFN asks you to remove.
 *	Provide AFN reasonable access to usage analytics of the application.
 
-## You shall not:
+### You shall not:
 
 *	Use  the AFN API for any application or purpose other than as approved by AFN.
 *	Use the AFN API for any application that replicates or attempts to replace the essential user experience of the AFN website or software applications built by AFN.
