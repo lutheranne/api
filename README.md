@@ -12,3 +12,7 @@ To use the ArtFacts API you must authenticate each request. For more details, pl
 ## Request Endpoints
 
 As this is only a beta API, there are relatively few API end points. For a full list, please see [API Endpoints](endpoints.md).
+
+## Terms and Conditions
+
+Please see our [API Terms](TERMS.md).
