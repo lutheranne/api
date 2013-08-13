@@ -81,6 +81,7 @@ Gets the list of the "Up and Coming" artists based on the ArtFacts Ranking.
 -   **offset** - *int* (optional) - offset of the returned artists
     -   min = 1
 -   **nationality** - *string* (optional) - filter returned results by nationality of artist
+-   **years** - *int* (options) - set the number of years from which the "up and coming" status is calculated
 -   **order** - *string* (optional) - order the results
     -   `rank` *default* - order by rank (starting at 1)
     -   `3y_slope` - order by those increasing their rank by the most over the past 3 years
